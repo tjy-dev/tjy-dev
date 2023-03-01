@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- B3 student at Tokyo Institute of Technology
+- Currently studying computer science
+
 [![TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
